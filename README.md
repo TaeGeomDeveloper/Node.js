@@ -17,3 +17,24 @@ Node.js 공부
 - git remote add origin 주소
 
 - git push origin master 
+
+
+### NPM 노드 패키지 매니저
+
+- npm init -y		시작 설정
+- npm install parcel-bundler -D	파셀 번들 설치 (개발자 모드)
+- npm -- version
+- npm info lodash
+
+  ```json
+     "scripts": {
+      "dev" : "parcel index.html",
+      "build" : "parcel build index.html"
+     }
+  ```
+ - npm run dev
+ - npm run build
+ - Ctrl + C 종료
+
+### 번들
+
