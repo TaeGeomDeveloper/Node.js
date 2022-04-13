@@ -2,7 +2,7 @@
 Node.js 공부
 
 
-## git 기본 명령어
+### git 기본 명령어
 
 - git init	  	깃 설정
 
