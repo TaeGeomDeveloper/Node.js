@@ -38,3 +38,6 @@ Node.js 공부
 
 ### 번들
 
+- Parcel, lodash, axios 등
+
+  npm i lodash 설치
