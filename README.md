@@ -37,7 +37,7 @@ Node.js 공부
  - Ctrl + C 종료
 
 ### 번들
+Parcel, lodash, axios 등
 
-- Parcel, lodash, axios 등
+- npm i 번들
 
-  npm i lodash 설치
